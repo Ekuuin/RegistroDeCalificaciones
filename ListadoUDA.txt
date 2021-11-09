@@ -1,0 +1,432 @@
+1
+Actividades del Área Complementaria
+Complementaria
+Obligatoria
+5
+0
+2
+Actividades del Área General
+General
+Obligatoria
+8
+0
+3
+Administración de la Tecnología Informática
+Profundización
+Obligatoria
+6
+4
+4
+Administración de Proyecto de Tesis
+Complementaria
+Optativa Area Complementaria
+3
+2
+5
+Álgebra Lineal
+Básica Común
+Obligatoria
+6
+4
+6
+Algoritmos de Procesamiento Digital de Señales
+Profundización
+Optativa Opción Informatica Industrial
+6
+4
+7
+Algoritmos y Estructuras de Datos
+Básica Disciplinar
+Obligatoria
+6
+4
+8
+Almacenes de Datos
+Profundización 
+Optativa Opción Sistemas de Información
+6
+4
+9
+Aplicaciones Internet
+Básica Disciplinar
+Obligatoria
+6
+4
+10
+Cálculo Diferencial
+Básica Común
+Obligatoria
+6
+4
+11
+Cálculo Integral
+Básica Común
+Obligatoria
+6
+4
+12
+Cálculo Vectorial y Multivariable
+Básica Común
+Obligatoria
+6
+5
+13
+Circuitos Integrados Lineales
+Básica Disciplinar
+Obligatoria
+6
+4
+14
+Compiladores
+Básica Disciplinar
+Obligatoria
+6
+4
+15
+Computación Flexible
+Profundización
+Optativa Opcion IA y Robótica
+6
+4
+16
+Cómputo en la Nube
+Profundización
+Optativa Opción Sistemas de Información
+6
+4
+17
+Comunicaciones Digitales
+Profundización
+Optativa Opción Sistemas de Información
+6
+4
+18
+Desarrollo de Software
+Básica Disciplinar
+Obligatoria
+6
+4
+19
+Desarrollo de Software para Sistemas de Control
+Profundización 
+Optativa Opción Informatica Industrial
+6
+4
+20
+Desarrollo Humano y Comunicación
+General
+Obligatoria
+3
+2
+21
+Ecuaciones Diferenciales
+Básica Común
+Obligatoria
+6
+4
+22
+Electromagnetismo y Ondas
+Básica Disciplinar
+Obligatoria
+6
+4
+23
+Electrónica Analógica
+Básica Disciplinar
+Obligatoria
+6
+4
+24
+Electrónica Digital
+Básica Disciplinar
+Obligatoria
+6
+4
+25
+Espíritu Emprendedor
+General
+Obligatoria
+3
+2
+26
+Expresión Verbal en Ambiente Profesional
+Complementaria
+Optativa Area Complementaria
+3
+2
+27
+Filtrado Digital
+Profundización
+Optativa Opción Informatica Industrial
+6
+4
+28
+Formación Cultural e Intercultural
+General
+Obligatoria
+3
+2
+29
+Fundamentos de los Sistemas de Información
+Básica Común
+Obligatoria
+6
+4
+30
+Fundamentos de los Sistemas Eléctricos
+Básica Disciplinar
+Obligatoria
+6
+4
+31
+Geometría Computacional
+Básica Disciplinar
+Optativa Disciplinar
+6
+4
+32
+Gráficos por Computadora
+Básica Disciplinar
+Optativa Disciplinar
+6
+4
+33
+Informática Industrial
+Profundización
+Obligatoria
+6
+4
+34
+Ingeniería de Software
+Básica Disciplinar
+Obligatoria
+6
+4
+35
+Ingeniería Económica
+Complementaria
+Optativa Area Complementaria
+3
+2
+36
+Ingeniería Industrial
+Complementaria
+Optativa Area Complementaria
+3
+2
+37
+Inmersión en el Ambiente Laboral
+Complementaria
+Obligatoria
+10
+0
+38
+Instrumentación Computarizada
+Profundización
+Optativa Opción Informatica Industrial
+6
+4
+39
+Integración la Vida Universitaria
+General
+Obligatoria
+1
+1
+40
+Inteligencia Artificial
+Profundización
+Obligatoria
+6
+4
+41
+Laboratorio de Mediciones
+Básica Disciplinar
+Obligatoria
+3
+2
+42
+Lenguajes Modernos de Programación
+Básica Disciplinar
+Optativa Disciplinar
+6
+4
+43
+Matemáticas Discretas
+Básica Disciplinar
+Obligatoria
+6
+4
+44
+Mecánica
+Básica Común
+Obligatoria
+6
+4
+45
+Métodos Numéricos
+Básica Común
+Obligatoria
+4
+3
+46
+Microprocesadores y Microcontroladores
+Básica Disciplinar
+Obligatoria
+6
+4
+47
+Minería de Datos
+Profundización
+Optativa Opción Sistemas de Información
+6
+4
+48
+Probabilidad y Estadística
+Básica Común
+Obligatoria
+6
+4
+49
+Programación Científica
+Básica Disciplinar
+Optativa Disciplinar
+6
+4
+50
+Programación en Ingeniería
+Básica Disciplinar
+Obligatoria
+6
+4
+51
+Programación Orientada a Objetos
+Básica Disciplinar
+Obligatoria
+6
+4
+52
+Proyecto en Ingeniería
+Básica Común
+Obligatoria
+6
+4
+53
+Química Universitaria
+Básica Común
+Obligatoria
+6
+4
+54
+Reconocimiento de Patrones
+Profundización
+Optativa Opcion IA y Robótica
+6
+4
+55
+Redacción de Artículos Científicos en Inglés
+Complementaria
+Optativa Area Complementaria
+3
+2
+56
+Redacción de CV y Entrevista de Trabajo
+Complementaria
+Optativa Area Complementaria
+3
+2
+57
+Redes de Computadoras I
+Básica Disciplinar
+Obligatoria
+6
+4
+58
+Redes de Computadoras II
+Básica Disciplinar
+Obligatoria
+6
+4
+59
+Responsabilidad Social
+General
+Obligatoria
+3
+2
+60
+Robótica Móvil
+Profundización
+Optativa Opcion IA y Robótica
+6
+4
+61
+Seguridad en Redes
+Profundización
+Optativa Opción Sistemas de Información
+6
+4
+62
+Seminario de Proyecto de Titulación
+Complementaria
+Obligatoria
+3
+2
+63
+Sistemas de Administración de Datos
+Básica Disciplinar
+Obligatoria
+6
+4
+64
+Sistemas de Información
+Profundización
+Obligatoria
+6
+4
+65
+Sistemas Digitales
+Profundización
+Optativa Opción Informatica Industrial
+6
+4
+66
+Sistemas Operativos
+Básica Disciplinar
+Obligatoria
+6
+4
+67
+Tópico Selecto en Informática Industrial
+Profundización
+Optativa Opción Informatica Industrial
+6
+4
+68
+Tópico Selecto en Inteligencia Artificial y Robótica
+Profundización
+Optativa Opcion IA y Robótica
+6
+4
+69
+Tópico Selecto en Sistemas Computacionales
+Básica Disciplinar
+Optativa Disciplinar
+6
+4
+70
+Tópico Selecto en Sistemas de Información
+Profundización
+Optativa Opción Sistemas de Información
+6
+4
+71
+Visión por Computadora
+Profundización
+Optativa Opcion IA y Robótica
+6
+4
+72
+Visualización de Información
+Básica Disciplinar
+Optativa Disciplinar
+6
+4
